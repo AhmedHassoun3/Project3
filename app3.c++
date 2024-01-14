@@ -21,5 +21,5 @@ int main(){
     return -1; 
     */
    std::cout << "Ahmed" << std::endl;
-   std::cout << "Ahmed" << std::endl;
+   std::cout << "Ahmed " << std::endl;
 }
